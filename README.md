@@ -1,4 +1,4 @@
-# Bjontegaard_metric
+# Bjontegaard metric computation for python3
 Bjontegaard's metric computes the average gain in PSNR or the average saving in bitrate (in %) 
 between two rate-distortion curves [1][2].
 
